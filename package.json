@@ -37,7 +37,6 @@
     "chalk": "latest",
     "standard": "latest"
   },
-  "dependencies": {},
   "publishConfig": {
     "registry": "https://npm.registry.github.com/"
   }
