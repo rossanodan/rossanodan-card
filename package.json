@@ -1,6 +1,6 @@
 {
   "name": "rossanodan-card",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "A personal card for Rossano D'Angelo (@rossanodan)",
   "main": "/bin/card.js",
   "bin": {
