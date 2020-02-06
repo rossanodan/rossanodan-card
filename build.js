@@ -23,7 +23,7 @@ const data = {
   github: chalk.gray('https://github.com/') + chalk.green('rossanodan'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('rossanodan'),
   web: chalk.cyan('https://dev.to/rossanodan'),
-  npx: chalk.red('npx') + ' ' + chalk.white('rossanodan-card'),
+  npx: chalk.red('npx') + ' ' + chalk.white('rossanodan'),
   labelWork: chalk.white.bold('       Work:'),
   labelTwitter: chalk.white.bold('    Twitter:'),
   labelnpm: chalk.white.bold('        npm:'),
